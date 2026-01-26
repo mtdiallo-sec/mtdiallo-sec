@@ -13,7 +13,14 @@ Analyste SOC junior, Ingénieur cybersécurité junior, Assistant RSSI, Penteste
 
 Intégrer une entreprise en alternance en cybersécurité pour apprendre en conditions réelles, renforcer mes compétences techniques et participer activement à la sécurisation des infrastructures et des applications.
 
-🧠 Compétences (en cours d’apprentissage)
+📫 Me contacter
+
+    Email : diallomt2002@gmail.com
+    LinkedIn : à ajouter
+
+## 💼 Mes projets
+
+## 🧠 Compétences (en cours d’apprentissage)
 
   💻 Informatique & Systèmes
   
@@ -41,7 +48,7 @@ Intégrer une entreprise en alternance en cybersécurité pour apprendre en cond
       Management & organisation
       Travail en équipe & autonomie
 
-📚 Ce que j’apprends actuellement
+## 📚 Ce que j’apprends actuellement
 
     Cybersécurité défensive
     Sécurité des applications
@@ -50,11 +57,6 @@ Intégrer une entreprise en alternance en cybersécurité pour apprendre en cond
     Anglais
     Labs pratiques & CTFs
 
-📫 Me contacter
-
-    Email : à ajouter
-    LinkedIn : à ajouter
-
-⚡ Fun fact
+## ⚡ Fun fact
 
 Je suis passionné par la cybersécurité et j’aime comprendre comment fonctionnent les attaques pour mieux défendre les systèmes.

@@ -20,7 +20,9 @@ Intégrer une entreprise en alternance en cybersécurité pour apprendre en cond
 <a href="https://www.linkedin.com/in/mamadou-talibe-diallo-782053279" target="_blank"> in/mamadou-talibe-diallo </a>
 
 ## 💼 Mes projets
-  ### Sportify - Plateforme de réservation sportive
+ - [Sportify - Plateforme de réservation sportive](https://github.com/mtdiallo-sec/projet-sportify)
+ - Sportify
+
 
 ## 🧠 Compétences (en cours d’apprentissage)
 

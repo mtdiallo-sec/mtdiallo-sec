@@ -17,7 +17,7 @@ Intégrer une entreprise en alternance en cybersécurité pour apprendre en cond
 
 📧 Email : [diallomt2002@gmail.com](mailto:diallomt2002@gmail.com)  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn : 
-<a href="https://www.linkedin.com/in/mamadou-talibe-diallo-782053279" target="_blank"> in/mamadou-talibe-diallo-782053279 </a>
+<a href="https://www.linkedin.com/in/mamadou-talibe-diallo-782053279" target="_blank"> in/mamadou-talibe-diallo </a>
 
 ## 💼 Mes projets
 

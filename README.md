@@ -13,10 +13,10 @@ Analyste SOC junior, Ingénieur cybersécurité junior, Assistant RSSI, Penteste
 
 Intégrer une entreprise en alternance en cybersécurité pour apprendre en conditions réelles, renforcer mes compétences techniques et participer activement à la sécurisation des infrastructures et des applications.
 
-📫 Me contacter
+## 📫 Me contacter
 
-    Email : [diallomt2002@gmail.com](mailto:diallomt2002@gmail.com)
-    LinkedIn : à ajouter
+📧 Email : [diallomt2002@gmail.com](mailto:diallomt2002@gmail.com)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn : www.linkedin.com/in/mamadou-talibe-diallo-782053279
 
 ## 💼 Mes projets
 

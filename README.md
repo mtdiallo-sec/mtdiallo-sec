@@ -15,7 +15,7 @@ Intégrer une entreprise en alternance en cybersécurité pour apprendre en cond
 
 📫 Me contacter
 
-    Email : diallomt2002@gmail.com
+    Email : [diallomt2002@gmail.com](mailto:diallomt2002@gmail.com)
     LinkedIn : à ajouter
 
 ## 💼 Mes projets

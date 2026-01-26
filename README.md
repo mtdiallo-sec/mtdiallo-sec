@@ -21,7 +21,7 @@ Intégrer une entreprise en alternance en cybersécurité pour apprendre en cond
 
 ## 💼 Mes projets
  - [Sportify - Plateforme de réservation sportive](https://github.com/mtdiallo-sec/projet-sportify)
- - Sportify
+ - [Genelog — Gestion d’arbres généalogiques](https://github.com/mtdiallo-sec/genealogie_familiale)
 
 
 ## 🧠 Compétences (en cours d’apprentissage)

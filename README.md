@@ -22,7 +22,8 @@ Intégrer une entreprise en alternance en cybersécurité pour apprendre en cond
 ## 💼 Mes projets
  - [Sportify - Plateforme de réservation sportive](https://github.com/mtdiallo-sec/projet-sportify)
  - [Genelog — Gestion d’arbres généalogiques](https://github.com/mtdiallo-sec/genealogie_familiale)
- - [Space Invaders - Le jeu Space Invaders](https://github.com/mtdiallo-sec/space_invaders)
+ - [Le jeu Space Invaders](https://github.com/mtdiallo-sec/space_invaders)
+ - [Gestion d'une galerie d'images](https://github.com/mtdiallo-sec/gestion_galerie_images)
 
 
 ## 🧠 Compétences (en cours d’apprentissage)

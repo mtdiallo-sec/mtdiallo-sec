@@ -31,7 +31,8 @@ Intégrer une entreprise en alternance en cybersécurité pour apprendre en cond
   💻 Informatique & Systèmes
   
         Réseaux
-        Systèmes d’exploitation
+        Linux
+        Windows
         Git & GitHub
 
   🔐 Cybersécurité (débutant)
@@ -50,7 +51,7 @@ Intégrer une entreprise en alternance en cybersécurité pour apprendre en cond
 
   🗣️ Autres
   
-      Anglais  (en amélioration)
+      Anglais (en amélioration)
       Management & organisation
       Travail en équipe & autonomie
 

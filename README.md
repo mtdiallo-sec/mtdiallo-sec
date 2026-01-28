@@ -22,7 +22,7 @@ Intégrer une entreprise en alternance en cybersécurité pour apprendre en cond
 ## 💼 Mes projets
  - [Gestion des enseignements — FST](https://github.com/mtdiallo-sec/gestion_enseignements_fst)
  - [Château Fort — Modélisation graphique](https://github.com/mtdiallo-sec/chateau_fort)
- - [Sportify — Plateforme de réservation sportive](https://github.com/mtdiallo-sec/projet-sportify)
+ - [Sportify — Plateforme de réservation sportive](https://github.com/mtdiallo-sec/projet_sportify)
  - [Genelog — Gestion d’arbres généalogiques](https://github.com/mtdiallo-sec/genealogie_familiale)
  - [Le jeu Space Invaders](https://github.com/mtdiallo-sec/space_invaders)
  - [Gestion d'une galerie d'images](https://github.com/mtdiallo-sec/gestion_galerie_images)

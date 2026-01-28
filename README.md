@@ -28,7 +28,7 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 - [Château Fort — Modélisation graphique](https://github.com/mtdiallo-sec/chateau_fort)  
 - [Sportify — Plateforme de réservation sportive](https://github.com/mtdiallo-sec/projet_sportify)  
 - [GeneLog — Gestion d’arbres généalogiques](https://github.com/mtdiallo-sec/genealogie_familiale)  
-- [Space Invaders — Jeu Java/Processing](https://github.com/mtdiallo-sec/space_invaders)  
+- [Space Invaders — Jeu interactif](https://github.com/mtdiallo-sec/space_invaders)  
 - [Gestion d'une galerie d'images](https://github.com/mtdiallo-sec/gestion_galerie_images)
 
 ---

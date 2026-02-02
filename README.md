@@ -36,17 +36,16 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 
 ## 🧠 Compétences
 
-### 💻 Informatique & Systèmes
+### 💻 Réseaux & Systèmes
 - OS : Linux (ligne de commande, fichiers, permissions, utilisateurs, programmes set-UID), Windows
 - Virtualisation : VirtualBox, VMware
 - Réseau : TCP/IP, DNS, DHCP, HTTP, FTP, routage, ping
 
 ### 🔐 Cybersécurité (niveau débutant)
-- Sécurité défensive
-- Sécurité des applications
-- Sécurité web
-- Bases en cryptographie
-- Introduction au Pentesting
+- Sécurité web et applications: authentification, contrôle d’accès, validation des entrées, protection contre les vulnérabilités courantes
+- Cybersécurité defensive: protection, vulnérabilités et réponse aux incidents
+- Cryptographie: hachage, chiffrement symétrique / asymétrique
+- Bonnes pratiques de sécurité dans le développement et les environnements
 
 ### 🧪 Langages, Frameworks & Librairies
 - Python, C, C++, Java, Kotlin, HTML, CSS, JavaScript, PHP, Bash

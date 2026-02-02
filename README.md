@@ -1,9 +1,10 @@
 ## 👋 Bonjour, moi c'est Mamadou Talibe Diallo
 
-🎓 Étudiant en Licence 3 Informatique à l'Université de Limoges  
-🌍 Actuellement en programme d'échange à l'Université du Québec à Chicoutimi (Canada)  
+🎓 Étudiant en Licence 3 Informatique à l'Université de Limoges.  
+🌍 Actuellement en programme d'échange à l'Université du Québec à Chicoutimi (Canada).  
+📚 Titulaire d'une Licence Mathématiques & Informatique obtenue à l'Université Hassan II de Casablanca (Maroc).
 
-🔎 Je recherche une alternance en cybersécurité sur des postes tels que : Analyste SOC junior, Ingénieur cybersécurité junior, Assistant RSSI, Pentester junior, pour développer mes compétences et contribuer à la protection des systèmes d'information.
+🔎 Je recherche une alternance en cybersécurité sur des postes tels que Analyste SOC junior, Pentester junior, Administrateur sécurité junior, Assistant RSSI, DevSecOps junior, pour développer mes compétences et contribuer à la protection des systèmes d’information.
 
 ---
 
@@ -17,7 +18,7 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 
 ## 📫 Me contacter
 
-📧 Email : [diallomt2002@gmail.com](mailto:diallomt2002@gmail.com)  
+📧 Email : [mamadou.diallo11@etu.unilim.fr](mailto:mamadou.diallo11@etu.unilim.fr)  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn : [in/mamadou-talibe-diallo](https://www.linkedin.com/in/mamadou-talibe-diallo-782053279)
 
 ---
@@ -36,26 +37,37 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 ## 🧠 Compétences
 
 ### 💻 Informatique & Systèmes
-- Linux & Windows
-- Réseaux
-- Git & GitHub
+- OS : Linux (ligne de commande, fichiers, permissions, utilisateurs, programmes set-UID), Windows
+- Virtualisation : VirtualBox, VMware
+- Réseau : TCP/IP, DNS, DHCP, HTTP, FTP, routage, ping
 
-### 🔐 Cybersécurité (débutant)
+### 🔐 Cybersécurité (niveau débutant)
 - Sécurité défensive
 - Sécurité des applications
 - Sécurité web
 - Bases en cryptographie
 - Introduction au Pentesting
 
-### 🧪 Langages, Frameworks & Outils
-- Python, C, C++, Java, Kotlin, HTML, CSS, JavaScript, Bash
+### 🧪 Langages, Frameworks & Librairies
+- Python, C, C++, Java, Kotlin, HTML, CSS, JavaScript, PHP, Bash
 - Django, Bootstrap
-- Wireshark, Nmap, MITRE ATT&CK
+- Processing, JavaFX, Chart.js
+
+### 🗄️ Bases de données
+- SQL : MySQL, SQLite, Derby
+
+### 🛠️ Outils & Collaborations
+- WAMP, Figma, Nmap, MITRE ATT&CK, WireShark 
+- Git / Github, VS Code, IntelliJ IDEA, VI, PyCharm
 
 ### 🗣️ Autres compétences
 - Anglais (en amélioration)
 - Management & organisation
-- Travail en équipe et autonomie
+- Travail en équipe et communication
+- Rigueur et sens de la sécurité
+- Esprit d’analyse et résolution de problèmes
+- Réactivité et gestion du stress
+- Respect des procédures et bonnes pratiques
 
 ---
 
@@ -65,7 +77,6 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 - Informatique mobile
 - Management
 - Anglais
-- Labs pratiques & CTFs
 
 ---
 

@@ -73,6 +73,7 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 ## 📚 Ce que j’apprends actuellement
 - Cybersécurité défensive
 - Sécurité des applications
+- Pratique en cybersécurité sur TryHackMe
 - Informatique mobile
 - Management
 - Anglais

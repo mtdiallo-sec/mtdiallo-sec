@@ -56,7 +56,7 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 - **SQL :** MySQL, SQLite, Derby
 
 ### 🛠️ Outils & Collaborations
-- WAMP, Figma, Nmap, MITRE ATT&CK, WireShark 
+- WAMP, Figma, Nmap, MITRE ATT&CK, WireShark, Snort
 - Git / Github, VS Code, IntelliJ IDEA, VI, PyCharm
 
 ### 🗣️ Autres compétences

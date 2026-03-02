@@ -42,7 +42,7 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 - **Virtualisation :** VirtualBox, VMware
 - **Réseau :** TCP/IP, DNS, DHCP, HTTP, FTP, routage, ping
 
-### 🔐 Cybersécurité (niveau débutant)
+### 🔐 Cybersécurité
 - **Sécurité web et applications :** authentification, contrôle d’accès, validation des entrées, protection contre les vulnérabilités courantes
 - **Cybersécurité defensive :** protection, vulnérabilités et réponse aux incidents
 - **Cryptographie :** hachage, chiffrement symétrique / asymétrique
@@ -75,6 +75,7 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 - Cybersécurité défensive
 - Sécurité des applications
 - Pratique en cybersécurité sur TryHackMe
+- Cybersécurité (cours sur Udemy)
 - Informatique mobile
 - Management
 - Anglais

@@ -25,7 +25,7 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 
 ## 💼 Projets
 
-- [Gestion de fichiers chiffrés ](https://github.com/mtdiallo-sec/Gestion_de_fichiers_chiffres) 
+- [Gestion de fichiers chiffrés ](https://github.com/mtdiallo-sec/Gestionnaire_de_fichiers_chiffres)
 - [Gestion des enseignements — FST](https://github.com/mtdiallo-sec/gestion_enseignements_fst)  
 - [Château Fort — Modélisation graphique](https://github.com/mtdiallo-sec/chateau_fort)  
 - [Sportify — Plateforme de réservation sportive](https://github.com/mtdiallo-sec/projet_sportify)  

@@ -25,7 +25,7 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 
 ## 💼 Projets
 
-- [Analyse de Vulnérabilités avec Nessus](https://github.com/mtdiallo-sec/Wazuh-SIEM-BruteForce-Detection)
+- [SIEM Brute Force Detection with Wazuh](https://github.com/mtdiallo-sec/Wazuh-SIEM-BruteForce-Detection)
 - [Analyse de Vulnérabilités avec Nessus](https://github.com/mtdiallo-sec/Analyse-de-vulnerabilites-Nessus)
 - [Application de chiffrement de fichiers](https://github.com/mtdiallo-sec/Gestionnaire_de_fichiers_chiffres)
 - [eCare+ — Application de gestion de routines](https://github.com/mtdiallo-sec/eCare)

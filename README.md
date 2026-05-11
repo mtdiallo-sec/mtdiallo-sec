@@ -1,7 +1,7 @@
 ## 👋 Bonjour, moi c'est Mamadou Talibe Diallo
 
 🎓 Étudiant en Licence 3 Informatique à l'Université de Limoges.  
-🌍 Actuellement en programme d'échange à l'Université du Québec à Chicoutimi (Canada).  
+🌍 Mobilité academique à l'Université du Québec à Chicoutimi (uQAC) au Canada.  
 📚 Titulaire d'une Licence Mathématiques & Informatique obtenue à l'Université Hassan II de Casablanca (Maroc).
 
 🔎 Je recherche une alternance en cybersécurité sur des postes tels que Analyste SOC junior, Pentester junior, Administrateur sécurité junior, Assistant RSSI, DevSecOps junior, pour développer mes compétences et contribuer à la protection des systèmes d’information.
@@ -40,11 +40,11 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 ### 💻 Réseaux & Systèmes
 - **OS :** Linux (ligne de commande, fichiers, permissions, utilisateurs, programmes set-UID), Windows
 - **Virtualisation :** VirtualBox, VMware
-- **Réseau :** TCP/IP, DNS, DHCP, HTTP, FTP, routage, ping
+- **Réseau :** TCP/IP, DNS, DHCP, HTTP, FTP, SMTP, NAT, modèle OSI, routage, ping
 
 ### 🔐 Cybersécurité
 - **Sécurité web et applications :** authentification, contrôle d’accès, validation des entrées, protection contre les vulnérabilités courantes
-- **Cybersécurité defensive :** protection, vulnérabilités et réponse aux incidents
+- **Cybersécurité defensive :** protection, analyse de vulnérabilités et réponse aux incidents
 - **Cryptographie :** hachage, chiffrement symétrique / asymétrique
 - Bonnes pratiques de sécurité dans le développement et les environnements
 
@@ -57,7 +57,7 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 - **SQL :** MySQL, SQLite, Derby
 
 ### 🛠️ Outils & Collaborations
-- WAMP, Figma, Nmap, MITRE ATT&CK, WireShark, Snort
+- Wazuh, Nessus, Nmap, MITRE ATT&CK, WireShark, Snort, Kathara, Figma, WampServer
 - Git / Github, VS Code, IntelliJ IDEA, VI, PyCharm
 
 ### 🗣️ Autres compétences
@@ -73,11 +73,8 @@ Passionné par la cybersécurité, la cryptographie, la sécurité des systèmes
 
 ## 📚 Ce que j’apprends actuellement
 - Cybersécurité défensive
-- Sécurité des applications
 - Pratique en cybersécurité sur TryHackMe
 - Cybersécurité (cours sur Udemy)
-- Informatique mobile
-- Management
 - Anglais
 
 ---

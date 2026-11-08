@@ -2,9 +2,9 @@
 
 🎓 Étudiant en **Master 1 Cybersécurité : du Edge au Cloud** à l'Université de Lille.
 
-🎓 Titulaire d'une **Licence Informatique** obtenue à l'Université de Limoges (France).
+🎓 Titulaire d'une **Licence Informatique** obtenue à l'Université de Limoges.
 
-📚 Titulaire également d'une **Licence Mathématiques et Informatique** de l'Université Hassan II de Casablanca (Maroc).
+📚 Titulaire également d'une **Licence Mathématiques et Informatique** obtenue à l'Université Hassan II de Casablanca (Maroc).
 
 🌍 Ancien étudiant en mobilité académique à l'Université du Québec à Chicoutimi (UQAC), au Canada.
 
@@ -49,7 +49,7 @@ Actuellement en Master 1 Cybersécurité : du Edge au Cloud à l'Université de 
 
 ---
 
-## 🧠 Compétences techniques
+## 🧠 Compétences 
 
 ### 🔐 Cybersécurité
 - Analyse et gestion de vulnérabilités (CVE, CVSS).
